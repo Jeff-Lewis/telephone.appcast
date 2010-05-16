@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Telephone's Changelog</title>
+		<link>http://appcast.telephone.googlecode.com/hg/appcast.xml</link>
+		<description>Most recent changes with links to updates.</description>
+		<language>en</language>
+        <item>
+			<title>Version 0.14.3</title>
+			<pubDate>Sat, 29 Aug 2009 17:44:00 +0000</pubDate>
+			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.14.3.dmg" sparkle:version="23" sparkle:shortVersionString="0.14.3" sparkle:dsaSignature="MCwCFAd4zY70qVFQaNqX0LyFQk4r83/JAhQpAImh2RqzrD+kENWrH/qGJHnJsQ==" length="2316568" type="application/octet-stream" />
+		</item>
+        <item>
+			<title>Version 0.14.2</title>
+			<pubDate>Thu, 13 Aug 2009 14:44:00 +0000</pubDate>
+			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.14.2.dmg" sparkle:version="22" sparkle:shortVersionString="0.14.2" sparkle:dsaSignature="MC0CFQCK/2ttNj3m1ihLMiqQDvuAx4iDIQIUR1tgMz6v8qdW4aeFTRZEsfyIlRQ=" length="2570449" type="application/octet-stream" />
+		</item>
+		<item>
+			<title>Version 0.14.1</title>
+			<pubDate>Tue, 28 Jul 2009 17:24:00 +0000</pubDate>
+			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.14.1.dmg" sparkle:version="21" sparkle:shortVersionString="0.14.1" sparkle:dsaSignature="MCwCFAmB+NjZHCwquQxlp3lvEm+FfT05AhR+2iN1dlvokdgL4az9ik9E8FBZEg==" length="2408541" type="application/octet-stream" />
+		</item>
+        <item>
+			<title>Version 0.14</title>
+			<pubDate>Tue, 23 Jun 2009 21:33:00 +0000</pubDate>
+			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.14.dmg" sparkle:version="20" sparkle:shortVersionString="0.14" sparkle:dsaSignature="MC0CFC5Dzb8L5Cyja9m0p52hv3AWhjBpAhUAgBTWzc0ZPbQ3ZV6G4VW9vTtCINc=" length="2401928" type="application/octet-stream" />
+		</item>
+        <item>
+			<title>Version 0.13.3</title>
+			<pubDate>Thu, 12 Mar 2009 23:01:00 +0000</pubDate>
+			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.13.3.dmg" sparkle:version="19" sparkle:shortVersionString="0.13.3" sparkle:dsaSignature="MCwCFFGYeF+wQ00zRXBJPmdWZPwp5Ay9AhRWK7+Kzqy8xkQGmurtVUz9DTfvLQ==" length="2518150" type="application/octet-stream" />
+		</item>
+	</channel>
+</rss>
