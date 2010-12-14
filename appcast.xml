@@ -5,10 +5,5 @@
 		<link>http://appcast.telephone.googlecode.com/hg/appcast.xml</link>
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
-        <item>
-			<title>Version 0.15.1</title>
-			<pubDate>Mon, 13 Dec 2010 23:28:00 +0000</pubDate>
-			<enclosure url="http://telephone.googlecode.com/files/Telephone-0.15.1.dmg" sparkle:version="28" sparkle:shortVersionString="0.15.1" sparkle:dsaSignature="MC0CFQCHH3EW4IxDoisGeiF8Qd6omXsrFwIUZlO/NvGkSzlNzeyWpZLRzovpvdQ=" length="3570799" type="application/octet-stream" />
-		</item>
 	</channel>
 </rss>
